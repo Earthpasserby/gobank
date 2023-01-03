@@ -19,7 +19,7 @@ h2{
 .kent{
   padding-left: 8%;
   padding-right: 8%;
-  background: url(../img/bg.svg);
+  background: url(bg.svg);
 }
 .dell{
   color: lightblue;
@@ -83,14 +83,14 @@ p{
   animation-name: fade;
   animation-fill-mode: both;
   animation-iteration-count: infinite;
-  animation-duration: 15s;
+  animation-duration: 60s;
   animation-direction: alternate-reverse;  
 }
 .js-nametag:nth-child(2){
     animation-name: fade;
     animation-fill-mode: both;
     animation-iteration-count: infinite;
-    animation-duration: 9s;
+    animation-duration: 60s;
     animation-direction: alternate;
   }
 
