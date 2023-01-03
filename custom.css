@@ -65,7 +65,7 @@ p{
 .fade{
     font-family: Arial;
     font-size: 20px;
-    animation: fadeIn 10s;
+    animation: fadeIn 19s;
     color: blue;
 
 }
@@ -90,7 +90,7 @@ p{
     animation-name: fade;
     animation-fill-mode: both;
     animation-iteration-count: infinite;
-    animation-duration: 9s;
+    animation-duration: 10s;
     animation-direction: alternate;
   }
 
